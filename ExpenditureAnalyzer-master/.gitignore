@@ -1,0 +1,15 @@
+# NetBeans specific #
+nbproject/
+build/
+dist/
+test/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
