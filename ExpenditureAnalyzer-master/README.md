@@ -12,6 +12,3 @@ This Java Project on Expenditure Analyzer is an application designed to help ind
 - A user can change password as well as budget for their account.
 - A user can view the all Login Records with Device name, IP Address, and Login Date and Time
 
-## Have a look at how this application works
-
-- [ExpenditureAnalyzer - Demonstration](https://youtu.be/ahIfK1xOvl0)
